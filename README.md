@@ -55,10 +55,10 @@ Here is the actual circuit implemented on a soldered PCB:
 ## 💻 Simulation (NI Multisim)
 
 ### Circuit Diagram
-![Simulation Circuit](simulation_circuit.jpg)
+![Simulation Circuit](simulation_circuit.png)
 
 ### Output Waveform
-![Simulation Output](simulation_output.jpg)
+![Simulation Output](simulation_output.png)
 
 
 ## 📄 Full Report

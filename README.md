@@ -1,13 +1,5 @@
 # Bandpass Filter using 741 Op-Amps
 
-## 👥 Team Members
-- Om Tayade (BT23ECE055)
-- Soham Kale (BT23ECE057)
-- Sanchit Thakare (BT23ECE058)
-- Mohammed Aaquibuddin (BT23ECE059)
-- Uday Gupta (BT23ECE060)
-- Jaswanth Singh Rathod (BT23ECE069)
-
 
 ## 📌 Project Aim
 To design and implement a Band-Pass Filter using two 741 operational amplifiers (op-amps).

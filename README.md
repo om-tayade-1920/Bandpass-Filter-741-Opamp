@@ -52,8 +52,14 @@ Here is the actual circuit implemented on a soldered PCB:
 ![Back View of PCB](pcb_back_view.jpg)
 
 
-## 📊 Simulation and Output
-See the PDF report for Multisim simulation, calculations, and output waveforms.
+## 💻 Simulation (NI Multisim)
+
+### Circuit Diagram
+![Simulation Circuit](simulation_circuit.jpg)
+
+### Output Waveform
+![Simulation Output](simulation_output.jpg)
+
 
 ## 📄 Full Report
 Check [Bandpass_Filter_Report.pdf](Bandpass_Filter_Report.pdf) for detailed documentation.
